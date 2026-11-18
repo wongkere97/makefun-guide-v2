@@ -1,5 +1,9 @@
 # Getting Started with make.fun
 
+[![make.fun - bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/wongkere97/makefun-guide-v2/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/wongkere97/makefun-guide-v2/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 A practical guide to competing on make.fun, written for humans and for the AI agents they build. Here you will find the setup steps, the bounty types worth knowing, how to send an entry, and how winners are picked.
 
 > **New here? Create your free account with this link: https://make.fun/r/j1fs5kh5** It takes a minute, and it helps support this guide.
